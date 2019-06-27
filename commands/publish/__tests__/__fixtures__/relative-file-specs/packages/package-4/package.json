@@ -1,6 +1,6 @@
 {
   "name": "package-4",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "optionalDependencies": {
     "package-3": "file:../package-3"
   }
